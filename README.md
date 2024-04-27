@@ -14,8 +14,8 @@
 <div> <h2>:man_technologist: Обо мне</h2>
   Я начинающий Frontend-разработчик. В сферу IT я попал еще в 2019 году, когда поступил в универститет по этому профилю. Пробовал себя в разных направлениях, изучал языки Си, занимался графическим дизайном, но в 2022 году меня зацепило направление WEB-разработки. Тогда я познакомился с Frontend и начал его углубленно изучать. За это время я успел попробовать себя в роли HTML-верстальщика, а в настоящий момент работаю Frontend-разработчиком! 
 </div>
----
-### :hammer_and_wrench: Языки и инструменты :
+
+--- :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
