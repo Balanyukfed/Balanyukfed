@@ -32,5 +32,12 @@
 
 <div>
 <h2>:hammer_and_wrench: Языки и инструменты</h2>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balanyukfed&theme=vision-friendly-dark)](https://git.io/streak-stats)
+  <div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Balanyukfed&theme=elegant&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
+</a>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balanyukfed&layout=compact&theme=ayu-mirage">
+  </div>
 </div>
