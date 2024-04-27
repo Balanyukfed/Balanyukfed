@@ -15,7 +15,9 @@
   Я начинающий Frontend-разработчик. В сферу IT я попал еще в 2019 году, когда поступил в универститет по этому профилю. Пробовал себя в разных направлениях, изучал языки Си, занимался графическим дизайном, но в 2022 году меня зацепило направление WEB-разработки. Тогда я познакомился с Frontend и начал его углубленно изучать. За это время я успел попробовать себя в роли HTML-верстальщика, а в настоящий момент работаю Frontend-разработчиком! 
 </div>
 
+<div>
 <h2>:hammer_and_wrench: Языки и инструменты</h2>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -25,3 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+    </div>
+</div>
