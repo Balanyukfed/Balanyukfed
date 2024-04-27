@@ -29,3 +29,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   </div>
 </div>
+
+<div>
+<h2>:hammer_and_wrench: Языки и инструменты</h2>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balanyukfed&theme=vision-friendly-dark)](https://git.io/streak-stats)
+</div>
