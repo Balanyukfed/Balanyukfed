@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
-    <a href=""> <img src="https://img.shields.io/badge/Instagram-1A659E?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/> </a>
+    <a href="https://www.instagram.com/developedby.nikita?igsh=MW1pbDFjczZjaWM0Zg==&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-1A659E?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/> </a>
     <a href="https://t.me/i_haveoneidea"> <img src="https://img.shields.io/badge/Telegram-FB8500?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/> </a>
   </div>
   <br>
