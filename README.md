@@ -6,7 +6,7 @@
   </h1>
   <div id="badges">
     <a href=""> <img src="https://img.shields.io/badge/Instagram-1A659E?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/> </a>
-    <a href=""> <img src="https://img.shields.io/badge/Telegram-FB8500?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/> </a>
+    <a href="https://t.me/i_haveoneidea"> <img src="https://img.shields.io/badge/Telegram-FB8500?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/> </a>
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=balanyukfed&style=flat&color=480CA8" alt=""/>
